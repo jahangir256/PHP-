@@ -1,0 +1,3 @@
+<?php 
+$API_KEY 	= "3mM44UbC8JRMGL_7Ri6TweVXCZk2tBpkiUhkN";
+$API_SECRET = "LDfFV8mYkPor8TQz4kUN5y";
